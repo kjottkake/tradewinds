@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Skyggen/Edumacation/NTNU/Spring 2021/OOPROG/boatsnhoes/LesData2.h
+iostream
+-
+iomanip
+-
+cctype
+-
+cstdlib
+-
+
+/Users/Skyggen/Edumacation/NTNU/Spring 2021/OOPROG/boatsnhoes/main.cpp
+iostream
+-
+LesData2.h
+/Users/Skyggen/Edumacation/NTNU/Spring 2021/OOPROG/boatsnhoes/LesData2.h
+iostream
+-
+iomanip
+-
+string
+-
+vector
+-
+
