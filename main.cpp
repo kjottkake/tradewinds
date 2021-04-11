@@ -7,12 +7,15 @@
 
 #include "ship.h"
 #include "ship.cpp"
+#include "map.h"
 
 using namespace std;
 
 struct Player {
     string name;
-    int gold;
+    int goldInventory;
+    int goldBank;
+    int goldOwed;
     vector <Ship*> playerOwnedShips;
 };
 
@@ -25,7 +28,7 @@ struct Items {
 int main() {
     Player player1;
     player1.name = "Douglas MacArthur";
-    player1.gold = 5000;
+    player1.goldInventory = 500;
 
     Ship* ship;
     ship = new Ship;
