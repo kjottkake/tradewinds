@@ -33,6 +33,22 @@ ship.h
 /Users/Skyggen/Edumacation/NTNU/Spring 2021/OOPROG/boatsnhoes/ship.h
 ship.cpp
 /Users/Skyggen/Edumacation/NTNU/Spring 2021/OOPROG/boatsnhoes/ship.cpp
+map.h
+/Users/Skyggen/Edumacation/NTNU/Spring 2021/OOPROG/boatsnhoes/map.h
+
+/Users/Skyggen/Edumacation/NTNU/Spring 2021/OOPROG/boatsnhoes/map.h
+iostream
+-
+LesData2.h
+/Users/Skyggen/Edumacation/NTNU/Spring 2021/OOPROG/boatsnhoes/LesData2.h
+iostream
+-
+iomanip
+-
+string
+-
+vector
+-
 
 /Users/Skyggen/Edumacation/NTNU/Spring 2021/OOPROG/boatsnhoes/ship.cpp
 iostream

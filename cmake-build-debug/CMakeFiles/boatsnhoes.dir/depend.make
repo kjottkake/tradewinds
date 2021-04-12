@@ -3,6 +3,7 @@
 
 CMakeFiles/boatsnhoes.dir/main.cpp.o: ../LesData2.h
 CMakeFiles/boatsnhoes.dir/main.cpp.o: ../main.cpp
+CMakeFiles/boatsnhoes.dir/main.cpp.o: ../map.h
 CMakeFiles/boatsnhoes.dir/main.cpp.o: ../ship.cpp
 CMakeFiles/boatsnhoes.dir/main.cpp.o: ../ship.h
 
